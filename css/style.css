@@ -610,6 +610,8 @@ a.brand:focus{
   display: inline-block;
   vertical-align:middle;
   margin-right: 0.65rem;
+  height: 30px;
+  width: 30px;
 }
 
 .brand-info{
@@ -619,7 +621,7 @@ a.brand:focus{
 
 .brand-name{
   font-weight: 600;
-  font-size: 1.714rem;
+  font-size: 1.786rem;
   line-height: 1;
 }
 
@@ -1328,7 +1330,7 @@ a.brand:focus{
   top:0;
   padding:2.2rem 3.6rem 3.6rem;
   background: rgba(255,255,255,0.1);
-  transition:background 0.5s, top 0.5s;
+  transition: background 0.5s, top 0.5s;
 }
 
 .col-resume:hover{
